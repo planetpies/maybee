@@ -4,5 +4,6 @@
 @tailwind utilities;
 
 body {
-  cursor: url('/bee-cursor.png'), auto;
+  cursor: url('../public/bee-cursor.png'), auto;
 }
+
