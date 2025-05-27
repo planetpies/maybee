@@ -4,8 +4,7 @@
 @tailwind utilities;
 
 body {
-  cursor: url('../public/bee-cursor.png'), auto;
-
+  cursor: url('/bee-cursor.png'), auto;
   background-image: url('/bg-planet-orange.jpg');
   background-size: cover;
   background-position: center;
