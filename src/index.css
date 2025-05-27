@@ -5,8 +5,8 @@
 
 body {
   cursor: url('../public/bee-cursor.png'), auto;
-}
-  background-image: url('/bg-planet.jpg');
+
+  background-image: url('/bg-planet-orange.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
